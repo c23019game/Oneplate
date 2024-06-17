@@ -9,7 +9,7 @@
 料理シミュレーションゲーム
 
 ## 担当プログラムファイル
-肉を焼いたら色が変わっていくスクリプト
+肉を焼いたら色が変わっていくスクリプト (https://github.com/c23019game/Oneplate/blob/master/ProjectData/OnePlate/Assets/Scripts/CuttedScript.cs)
 
 
 ## ゲームルール
