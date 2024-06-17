@@ -32,5 +32,4 @@ Unity 2022.3.7f1
 
 
 
-## ProjectData/OnePlate/Assetフォルダ内に下記リンク先にあるデータのダウンロードをお願いします。
-ここからできます(https://drive.google.com/drive/folders/1S_S1xF5JGpjSC7lQ8JFWZ9Avd2B9t3Oy)
+ProjectData/OnePlate/Assetフォルダ内に下記リンク先にあるデータのダウンロードをお願いします。(https://drive.google.com/drive/folders/1S_S1xF5JGpjSC7lQ8JFWZ9Avd2B9t3Oy)
