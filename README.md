@@ -2,21 +2,19 @@
 
 ## ファイル構成
 
-- [Unityデータ](https://github.com/c23011/OnePlate/tree/master/ProjectData/OnePlate)
-- [ビルドデータ](https://drive.google.com/drive/u/0/folders/14BAHcyWSsg7v7vOC-DXeMgp7jM3YsLpN)
+- [Unityデータ] (https://github.com/c23019game/Oneplate/tree/master/ProjectData/OnePlate)
+- [ビルドデータ] (https://drive.google.com/drive/u/0/folders/14BAHcyWSsg7v7vOC-DXeMgp7jM3YsLpN)
 
 ## ゲームジャンル
 料理シミュレーションゲーム
 
 ## 担当プログラムファイル
-- [食材を掴んで動かす](https://github.com/c23011/OnePlate/blob/master/ProjectData/OnePlate/Assets/Scripts/GripItemScript.cs)
-- [肉調理時の内部値の変更](https://github.com/c23011/OnePlate/blob/master/ProjectData/OnePlate/Assets/Scripts/NormalScoreScript.cs)
-- [盛り付け時の採点](https://github.com/c23011/OnePlate/blob/master/ProjectData/OnePlate/Assets/Scripts/ScoreCheckScript.cs)
+肉を焼いたら色が変わっていくスクリプト
 
 
 ## ゲームルール
-注文に合わせてお肉を焼き、
-プレートに盛り付けて高いスコアを目指す
+注文が表示されるのでその通りに
+調理してハイスコアを目指す
 
 ## 操作方法
 マウス左クリック長押しで食材を掴む
@@ -29,13 +27,10 @@ Unity 2022.3.7f1
 3ヶ月
 
 ## メンバー（役割）
-- 島袋陽光（プログラマ）
 - 比嘉瑚碧（デザイナー兼プログラマ）
+- 島袋陽光（プログラマ）
 
-## ゲームスクリーンショット
-![OnePlate_Title](https://github.com/c23011/OnePlate/blob/master/ScreenShot/OnePlate_Title.png)
-![OnePlate_Arrangement](https://github.com/c23011/OnePlate/blob/master/ScreenShot/ScreenShot_morituke.png)
 
 
 ProjectData/OnePlate/Assetフォルダ内に下記リンク先にあるデータのダウンロードをお願いします。
-[GoogleDrive_OnePlate](https://drive.google.com/drive/u/0/folders/1qPDAlfafXY4wgQ7mIiYrk41L8oNZme0l)
+(https://drive.google.com/drive/folders/1S_S1xF5JGpjSC7lQ8JFWZ9Avd2B9t3Oy)
