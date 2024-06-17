@@ -2,14 +2,14 @@
 
 ## ファイル構成
 
-- [Unityデータ] (https://github.com/c23019game/Oneplate/tree/master/ProjectData/OnePlate)
-- [ビルドデータ] (https://drive.google.com/drive/u/0/folders/14BAHcyWSsg7v7vOC-DXeMgp7jM3YsLpN)
+- [Unityデータ](https://github.com/c23019game/Oneplate/tree/master/ProjectData/OnePlate)
+- [ビルドデータ](https://drive.google.com/drive/u/0/folders/14BAHcyWSsg7v7vOC-DXeMgp7jM3YsLpN)
 
 ## ゲームジャンル
 料理シミュレーションゲーム
 
 ## 担当プログラムファイル
-肉を焼いたら色が変わっていくスクリプト (https://github.com/c23019game/Oneplate/blob/master/ProjectData/OnePlate/Assets/Scripts/ColorLerp.cs)
+[肉を焼いたら色が変わっていくスクリプト](https://github.com/c23019game/Oneplate/blob/master/ProjectData/OnePlate/Assets/Scripts/ColorLerp.cs)
 
 
 ## ゲームルール
@@ -33,4 +33,4 @@ Unity 2022.3.7f1
 
 
 ProjectData/OnePlate/Assetフォルダ内に下記リンク先にあるデータのダウンロードをお願いします。
-(https://drive.google.com/drive/folders/1S_S1xF5JGpjSC7lQ8JFWZ9Avd2B9t3Oy)
+ここからできます(https://drive.google.com/drive/folders/1S_S1xF5JGpjSC7lQ8JFWZ9Avd2B9t3Oy)
